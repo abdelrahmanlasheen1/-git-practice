@@ -1,3 +1,9 @@
 hello world
+<<<<<<< HEAD
 hola
 guten tag
+=======
+bonjour
+guten tag
+
+>>>>>>> french
